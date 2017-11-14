@@ -1,0 +1,11 @@
+{
+  "name": "chessai",
+  "version": "0.0.1",
+  "description": "chess ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Bilokha",
+  "license": "ISC"
+}
